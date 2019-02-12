@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+title: snapcache
+
+description: A compatible alternative to the Firebase realtime database.
